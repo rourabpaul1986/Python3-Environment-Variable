@@ -8,7 +8,7 @@ python3 -m venv myenv
 source myenv/bin/activate
 
 ```
-open the bashrc
+If you don't want to activate your virtual environment everytime you open your computer, you need to edit the bashrc file
 ```bash
 nano ~/.bashrc   # For Bash
 nano ~/.zshrc    # For Zsh
