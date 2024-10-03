@@ -1,5 +1,5 @@
 
-# python
+# python virtual environment setup
 create environment
 ```bash
 sudo apt update
